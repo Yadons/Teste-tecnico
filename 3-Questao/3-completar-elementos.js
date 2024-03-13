@@ -1,3 +1,4 @@
+// Testes realizados.
 // LETRA A.
 let controle = 1;
 while(controle < 10) {
