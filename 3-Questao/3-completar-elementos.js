@@ -1,4 +1,5 @@
 // Testes realizados.
+// Formas de trazer para código a 3 questão.
 // LETRA A.
 let controle = 1;
 while(controle < 10) {
@@ -72,10 +73,11 @@ console.log("--------");
 /* Creio que a resposta correta seria 200. Porque analisando a única coisa que segue um padrão e permite  da continuidade na sequência são os nomes dos números começando com a letra D. */
 const numeros = [2,10,12,16,17,18,19];
 const cacaPalavras = ["Dois", "Dez", "Doze","Dezesseis", "Dezessete", "Dezoito", "Dezenove", "Duzentos"];
-let auxiliar = 8;
+let auxiliar = 12;
 for(let indice = 0; indice < auxiliar; indice++) {
     if(cacaPalavras[indice] === "Duzentos") {
         numeros.push(200);
+        break;
     }
 }
 
