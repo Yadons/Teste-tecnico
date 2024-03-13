@@ -6,3 +6,4 @@ while(inverter !== -1) {
     inverter--;
 }
 // Mensagem: obrigado pelo teste.
+// Testes feitos.
