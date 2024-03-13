@@ -23,6 +23,5 @@ if (numFibonacci < 2) {
     }  else {
         console.log("O número informado faz parte da sequência.");
     } 
-    
 }
-
+//Testes feitos.
