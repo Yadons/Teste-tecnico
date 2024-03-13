@@ -12,4 +12,6 @@ while (K < INDICE) {
 }
 
 console.log(SOMA); // SOMA == 91.
-// Ao final do processamento a soma passa a ser 91, pois além da variável K está se repetindo, o cálculo da soma tbm está sendo realizado dentro da estrutura de repetição. Sendo assim, vai somando com o último valor da variável de controle.
+// Ao final do processamento a soma passa a ser 91, pois além da variável K está se repetindo, o cálculo da soma tbm está sendo realizado dentro da estrutura de repetição. 
+//Sendo assim, vai somando com o último valor da variável de controle.
+//Testes feitos.
